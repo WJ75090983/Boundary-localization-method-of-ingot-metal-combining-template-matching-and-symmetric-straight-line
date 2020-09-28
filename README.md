@@ -17,6 +17,13 @@
 
 
 
+![image](https://github.com/WJ75090983/Boundary-localization-method-of-ingot-metal-combining-template-matching-and-symmetric-straight-line/blob/master/2.jpg)
+
+
+
+
+
+
 
 
 
